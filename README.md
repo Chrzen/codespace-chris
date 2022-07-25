@@ -1,5 +1,5 @@
 # CodeSpace Software Dev Course
 
-## This is my github repository for the course - class of PT2207.
+## Intro
 
-### Mainly consists of examples thusfar...
+This is my (Chris Oosthuizen) github repository for the software development course - class of PT2207. Mainly consists of examples thusfar...
