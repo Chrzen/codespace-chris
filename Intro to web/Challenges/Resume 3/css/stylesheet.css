@@ -5,13 +5,13 @@ body{
 }
 
 header {
-  color: #9b9b9b;
+  color: #aaaaaa;
   text-align: center;
   background-color: #33463f;
 }
 
 footer {
-  color: #9b9b9b;
+  color: #aaaaaa;
   background-color: #33463f;
   text-align: center;
 }
@@ -30,4 +30,8 @@ article {
 
 section {
   background-color: #a65d2c
+}
+
+img {
+  border-radius: 50%;
 }
