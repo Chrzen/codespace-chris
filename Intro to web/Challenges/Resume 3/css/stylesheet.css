@@ -1,0 +1,33 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #519872;
+}
+
+header {
+  color: #9b9b9b;
+  text-align: center;
+  background-color: #33463f;
+}
+
+footer {
+  color: #9b9b9b;
+  background-color: #33463f;
+  text-align: center;
+}
+
+aside {
+
+  background-color: #6bb68e;
+
+}
+
+article {
+
+  background-color: #6bb68e;
+
+}
+
+section {
+  background-color: #a65d2c
+}
