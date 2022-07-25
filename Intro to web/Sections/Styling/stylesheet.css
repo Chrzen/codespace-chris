@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+h2 {
+    color: green;
+    font-size: 300%;
+}
+
+p {
+    color: blue; 
+    font-family: sans-serif; 
+}
+
+.classSelector {    
+    color: red;
+    font-weight: bold;
+  }
+
+#idselector {
+    background-color: #ccc;
+    padding: 20px;
+}

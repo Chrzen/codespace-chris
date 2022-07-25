@@ -35,3 +35,8 @@ section {
 img {
   border-radius: 50%;
 }
+
+#sidebar {
+  width: 20%;
+  background-color: #45462A;
+}

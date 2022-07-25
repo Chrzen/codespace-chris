@@ -1,0 +1,61 @@
+body{
+    font-family: sans-serif;
+    font-size:110%;
+    background-color: #519872;
+  }
+  
+  footer {
+    color: #aaaaaa;
+    background-color: #519872;
+    text-align: center;
+  }
+  
+  #content {
+  
+    background-color: #6bb68e;
+    border-radius: 2%;
+  }
+  
+  img {
+    border-radius: 50%;
+    border:2px solid ;
+  }
+  
+  #sidebar {
+    color: #aaaaaa;
+    background-color: #33463f;
+    text-align: center;
+    border-radius: 10%;
+    padding-top: 0.1%;
+  }
+
+  .navList {
+    list-style-type: none;
+    padding: 1%;
+    background-color: #4F7E67;
+    border-radius: 10%;
+    padding-bottom: 3%;
+    color: #33463f;
+  }
+
+  .articleHeadings {
+    color: #17201D;
+  }
+
+  .articleSubHeadings{
+    color: #23302B;
+  }
+
+  .articleP {
+    color: #23302B;
+    text-align: justify;
+  }
+
+  #headerRibbon {
+    color: rgb(179, 179, 179);
+    text-align: center;
+    background-color: #33463f;
+    border-radius: 5%;
+  }
+
+  a { color: inherit; } 
